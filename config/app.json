@@ -1,6 +1,15 @@
 {
-  "appName": "Web App",
-  "packageName": "com.example.webapp",
+  "appName": "AURIX",
+  "packageName": "com.aurix.app",
   "orientation": "auto",
-  "permissions": ["internet", "network_state"]
+  "permissions": [
+    "notification",
+    "camera",
+    "video",
+    "audio",
+    "location",
+    "file_manager",
+    "bluetooth",
+    "wifi_state"
+  ]
 }
